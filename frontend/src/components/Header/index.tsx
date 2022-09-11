@@ -5,7 +5,7 @@ import './styles.css';
 function Header() {
     return (
         <header>
-            <div classNameF="dsmeta-logo-container">
+            <div className="dsmeta-logo-container">
                 <img src={logo} alt="DSMeta" />
                 <h1>DSMeta</h1>
                 <p>
